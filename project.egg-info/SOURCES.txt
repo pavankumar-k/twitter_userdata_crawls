@@ -1,0 +1,15 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/not-zip-safe
+project.egg-info/top_level.txt
+twitter/__init__.py
+twitter/items.py
+twitter/middlewares.py
+twitter/pipelines.py
+twitter/settings.py
+twitter/resources/links.txt
+twitter/spiders/__init__.py
+twitter/spiders/example.py
